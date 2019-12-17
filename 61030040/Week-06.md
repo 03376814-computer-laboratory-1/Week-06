@@ -172,7 +172,7 @@ class Program
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` ![](./images/Test01.jpg)
+``` ![](./images/Test01.JPG)
 
 
 
@@ -212,7 +212,7 @@ class Program
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` ![](./images/Test02.jpg)
+``` ![](./images/Test02.JPG)
 
 
 
@@ -249,7 +249,7 @@ class Program
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` ![](./images/Test03.jpg)
+``` ![](./images/Test03.JPG)
 
 
 
@@ -281,7 +281,7 @@ class Program
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` ![](./images/Test04.jpg)
+``` ![](./images/Test04.JPG)
 
 
 
@@ -317,7 +317,7 @@ class Program
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` ![](./images/Test05.jpg)
+``` ![](./images/Test05.JPG)
 
 
 
@@ -352,7 +352,7 @@ class Program
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` ![](./images/Test06.jpg)
+``` ![](./images/Test06.JPG)
 
 
 
@@ -385,7 +385,7 @@ class Program
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` ![](./images/Test07.jpg)
+``` ![](./images/Test07.JPG)
 
 
 
@@ -418,7 +418,7 @@ class Program
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
+``` ![](./images/Test08.JPG)
 
 
 
@@ -451,7 +451,7 @@ class Program
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
+``` ![](./images/Test09.JPG)
 
 
 
