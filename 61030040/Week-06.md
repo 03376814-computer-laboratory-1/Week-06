@@ -253,7 +253,7 @@ class Program
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
+``` ![](./images/Test03.jpg)
 
 
 
@@ -285,7 +285,7 @@ class Program
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
+``` ![](./images/Test04.jpg)
 
 
 
@@ -321,7 +321,7 @@ class Program
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
+``` ![](./images/Test05.jpg)
 
 
 
@@ -356,7 +356,7 @@ class Program
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
+``` ![](./images/Test06.jpg)
 
 
 
@@ -389,7 +389,7 @@ class Program
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
+``` ![](./images/Test07.jpg)
 
 
 
