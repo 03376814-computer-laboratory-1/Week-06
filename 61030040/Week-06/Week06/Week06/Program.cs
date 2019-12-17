@@ -9,18 +9,27 @@ namespace Week06
    
     class Program
     {
-
         static void Main()
         {
-            int a = 2;
-            float f = 3.5f;
-            double d = 4.99d;
-            decimal money = 1254841354;
-            Console.WriteLine(a + " " + f + " " + d + " " + money);
+            Console.WriteLine("Divide seven");
+               Console.Write("Enter number Begin: ");
+            int b = int.Parse(Console.ReadLine());
+            Console.Write("Enter number last: ");
+            int l = int.Parse(Console.ReadLine());
+
+            finddiv7(b, l);
             Console.ReadKey();
         }
+        static void finddiv7(int b, int l)
+        {
+            for (int i = b; i <= l; i++)
+            {
+                if (i % 7 == 0)
+                    Console.Write($"{i} ");
+            }
+        }
 
-       
+
 
     }
 }
