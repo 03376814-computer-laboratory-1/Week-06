@@ -513,6 +513,7 @@ Console.WriteLine(14 % a);
 ```
 
 หมายเหตุ code snippet ด้านบนยังรันไม่ได้ ให้เขียนเป็นโปรแกรมที่รันได้
+![](images/Test10.JPG)
 
 ## ตัวดำเนินการกำหนดค่า (Assignment operators)
 
@@ -576,12 +577,11 @@ Console.WriteLine(x /= 2);
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
+ ![](images/Test11.JPG)
 
 
 
 
-```
 
 คำถาม ถ้าเขียนเครื่องหมายตัวดำเนินการกำหนดค่าแบบผสมแยกจากกัน (เช่น เขียน  +=  เป็น + = ) จะทำได้หรือไม่ อย่างไร
 
@@ -604,12 +604,7 @@ Console.WriteLine("You are " + (GPA >= 2.0 ? "pass" : "fall"));
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
-
-
-
-
-```
+![](images/Test12.JPG)
 
 ## ตัวดำเนินการเปรียบเทียบ (Comparison operators)
 
@@ -632,13 +627,8 @@ Console.WriteLine("x != y : " + (x != y));
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![](images/Test13.JPG)
 
-``` text
-
-
-
-
-```
 
 ## ตัวดำเนินการตรรกะ (Logical operators)
 
@@ -676,12 +666,7 @@ Console.WriteLine((!a)  ||  (!b));
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
-
-
-
-
-```
+![](images/Test14.JPG)
 
 ## ตัวดำเนินการไบนารี่ (Binary operators) หรือตัวดำเนินการระดับบิต (Bitwise Operators)
 
@@ -723,12 +708,7 @@ Console.WriteLine(a >> 1);
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
-
-
-
-
-```
+![](images/Test15.JPG)
 
 หมายเหตุ เพื่อการแสดงผลเป็นเลขฐานสองที่เข้าใจง่าย ทดลองเปลี่ยนรูปแบบการแสดงผลในบรรทัดที่ 8-10 ของ code ด้านบนเป็น code ต่อไปนี้
 Console.WriteLine("{0}",Convert.ToString (a << 1, 2).PadLeft(8,'0'));
@@ -751,12 +731,7 @@ Console.WriteLine(helloWorld555);
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
-
-
-
-
-```
+![](images/Test16.JPG)
 
 ## ตัวดำเนินการแปลงชนิดข้อมูล (Type conversion operators)
 
@@ -792,12 +767,7 @@ Console.WriteLine(myLong + myInt);
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
-
-
-
-
-```
+![](images/Test17.JPG)
 
 ## การแปลงชนิดข้อมูลแบบโดยชัดแจ้ง (Explicit Type Conversion)
 
@@ -823,12 +793,7 @@ Console.WriteLine(int.MinValue);
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
-
-
-
-
-```
+![](images/Test18.JPG)
 
 ## การสูญเสียข้อมูลระหว่างการแปลงชนิด
 
@@ -855,12 +820,7 @@ Console.WriteLine(actualHeight);
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
-
-
-
-
-```
+![](images/Test19.JPG)
 
 ## การบังคับให้เกิด Exception ในกรณีที่มีความผิดปกติในการแปลงชนิดข้อมูล
 
@@ -877,12 +837,7 @@ Console.WriteLine(i);
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
-
-
-
-
-```
+![](images/Test20.JPG)
 
 แก้โปรแกรม โดยเพิ่มการตรวจสอบการแปลงชนิดข้อมูลด้วยคีย์เวิร์ด checked
 
@@ -897,12 +852,7 @@ Console.WriteLine(i);
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
-
-
-
-
-```
+![](images/Test21.JPG)
 
 โปรแกรมข้างบน มี exception เกิดขึ้น  ให้ลองเพิ่มประโยค  try..catch เพื่อจัดการกับ exception นั้น
 
@@ -920,12 +870,7 @@ Console.WriteLine(myString);
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
-
-
-
-
-```
+![](images/Test22.JPG)
 
 การแปลง ToString() จะมีลักษณะ implicit type conversion ได้ เมื่อเรานำข้อมูลชนิดต่างๆ มาใช้ร่วมกับเมธอดที่ทำงานกับ string เช่นเมธอด Console.WriteLine() ซึ่ง Console.WriteLine() จะทำการแปลงข้อมูลทุกชนิด (ที่สามารถแปลงได้) ไปเป็น string เพื่อทำการแสดงผลออกหน้าจอ
 
@@ -941,12 +886,7 @@ Console.WriteLine( a+" "+ f+ " "+ d + " " + money);
 
 ➢ รันโปรแกรมและบันทึกผล
 
-``` text
-
-
-
-
-```
+![](images/Test23.JPG)
 
 ## แบบฝึกหัด
 

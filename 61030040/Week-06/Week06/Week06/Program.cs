@@ -12,17 +12,15 @@ namespace Week06
 
         static void Main()
         {
-            int val ; // uninitialized variable
-
-            refMethod(out val);
-            Console.WriteLine(val);
-            Console.ReadLine();
+            int a = 2;
+            float f = 3.5f;
+            double d = 4.99d;
+            decimal money = 1254841354;
+            Console.WriteLine(a + " " + f + " " + d + " " + money);
+            Console.ReadKey();
         }
 
-        static void refMethod(out int i)
-        {
-            i = i + 1;
-        }
+       
 
     }
 }
